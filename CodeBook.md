@@ -1,4 +1,4 @@
-The variables
+The variables in tidy dataset
 
 subjid : 30 volunteers' ID
 
