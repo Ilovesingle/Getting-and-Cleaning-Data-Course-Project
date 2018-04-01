@@ -18,7 +18,7 @@ actcode : 6 activities code from 1 to 6
 actname : 6 activities labels (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 # Mean and Standard Deviation variables in the tidy dataset which are extracted from original dataset
-tBodyAcc-mean()-X 
+tBodyAcc-mean()-X
 tBodyAcc-mean()-Y 
 tBodyAcc-mean()-Z 
 tBodyAcc-std()-X 
