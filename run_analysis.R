@@ -14,7 +14,7 @@ train_subjid <- read.table("./train/subject_train.txt", col.names = "subjid")
 features <- read.table("./features.txt")
 activity_labels <- read.table("./activity_labels.txt")
 
-# Extract variable names from features and activity labels
+# Extract variable names from features
 var_names <- features[, 2]
 
 # Assign variable names to the measurement data frame
